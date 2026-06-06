@@ -9,7 +9,7 @@ Computer engineering undergrad at Marquette University. I like working on hardwa
 
 ## Projects
 
-- **EmpathySense** — TinyML project for [one line: what it senses / does, and the board it runs on]. *(Add the link once it's pushed.)*
+- **[EmpathySense](https://github.com/TimGnorski/EmotionalDetection)** — TinyML project for [one line: what it senses / does, and the board it runs on]. 
 - **[llm-text-to-sql](https://github.com/TimGnorski/llm-text-to-sql)** — [one line: natural-language questions → SQL queries using an LLM].
 - **[IntroDatabaseProject](https://github.com/TimGnorski/IntroDatabaseProject)** — [one line: what it does].
 
